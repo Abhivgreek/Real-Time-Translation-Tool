@@ -24,7 +24,7 @@ A voice recognition-based tool for translating languages in real-time. This tool
 - **Step 01:** Navigate to the following directory.
 
   ```
-   language-translator-bot/docs/requirements.txt
+   real-time-language-translator/docs/requirements.txt
   ```
 
 - **Step 02:** Run this command to install all dependencies.
