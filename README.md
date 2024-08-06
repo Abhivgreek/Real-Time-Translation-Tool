@@ -1,5 +1,5 @@
 # Real-Time Language Translator Bot
-
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Abhishek%20Verma-red)
 ## 01 Introduction
 
 A voice recognition-based tool for translating languages in real-time. This tool serves as a virtual interpreter, offering users a convenient and efficient way to bridge language gaps. Inspired by the natural process of human translation, the tool listens to spoken words and converts them into the target language, replicating the fluidity and accuracy of a human translator.
